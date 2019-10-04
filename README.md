@@ -9,3 +9,4 @@ we want to deploy a containerized image. our pipeline includes:
 -automated testing
 -security scanning
 -promoting the image an deploying to production
+
